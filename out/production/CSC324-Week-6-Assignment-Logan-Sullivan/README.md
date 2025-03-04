@@ -13,8 +13,6 @@ This is a simple **To-Do List application** built in **Java**. It allows users t
 
 ## **Added Features**
 - **Created Task class for easier implementation of features** Task class allows for much easier implementation of task to task attributes and future development
-- **Task priority** On creation of a new task prompts user for priority from low to high then sorts that task into array for easier task managment
-![Alt text](image.png)
+- **Sorting of tasks based on priority** On creation of a new task prompts user for priority from low to high then sorts that task into array for easier task managment
 - **Canceling creation and removal of tasks** added a cancel option in all user prompts so that you can change your mind at any time
-![Alt text](image-1.png)
 - **Dummy list for Debugging** entering 727 at the main menu creates a list for easier testing
